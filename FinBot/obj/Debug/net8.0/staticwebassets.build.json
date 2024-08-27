@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bn/ARynB0ouvkZfHFCdd/i3dS5aAwRXEP0xuzqUd3lk=",
+  "Hash": "wHAGWRlBbMfE8A5ZAbTch67qK5tNKFVyJvMPg5wVcPM=",
   "Source": "CoreBot",
   "BasePath": "_content/CoreBot",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CoreBot\\wwwroot",
       "Source": "CoreBot",
-      "ContentRoot": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\wwwroot\\",
       "BasePath": "_content/CoreBot",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\wwwroot\\default.htm",
+      "Identity": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\wwwroot\\default.htm",
       "SourceId": "CoreBot",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\wwwroot\\",
       "BasePath": "_content/CoreBot",
       "RelativePath": "default.htm",
       "AssetKind": "All",

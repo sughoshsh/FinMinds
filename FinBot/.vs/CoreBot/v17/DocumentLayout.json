@@ -1,97 +1,97 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\",
+  "WorkspaceRootPath": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\cards\\welcomecard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:cards\\welcomecard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\cards\\welcomecard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:cards\\welcomecard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\dialogs\\maindialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\dialogs\\maindialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\maindialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\dialogs\\qnalearndialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\dialogs\\qnalearndialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\qnalearndialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\dialogs\\qnafuncdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\dialogs\\qnafuncdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\qnafuncdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\models\\finaclesqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\models\\finaclesqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\finaclesqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\models\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\models\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\dialogs\\azuresqldbdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\dialogs\\azuresqldbdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\azuresqldbdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\dialogs\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\dialogs\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\bots\\dialogandwelcomebot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\bots\\dialogandwelcomebot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:bots\\dialogandwelcomebot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\bots\\dialogbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\bots\\dialogbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:bots\\dialogbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\models\\eodpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\models\\eodpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\eodpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\models\\tradingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\models\\tradingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\tradingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\models\\tradeflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\models\\tradeflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\tradeflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\teamsappmanifest\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\teamsappmanifest\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:teamsappmanifest\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\teamsappmanifest\\icon-color.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\teamsappmanifest\\icon-color.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:teamsappmanifest\\icon-color.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\sughosh_su\\13.core-bot\\corebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\github\\finminds\\finbot\\corebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:corebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -102,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -116,74 +116,70 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "QnALearnDialog.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\QnALearnDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\QnALearnDialog.cs",
               "RelativeDocumentMoniker": "Dialogs\\QnALearnDialog.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\QnALearnDialog.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\QnALearnDialog.cs",
               "RelativeToolTip": "Dialogs\\QnALearnDialog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-21T11:04:08.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-21T11:04:08.932Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "CustomerDetail.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\CustomerDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\CustomerDetail.cs",
               "RelativeDocumentMoniker": "Models\\CustomerDetail.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\CustomerDetail.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\CustomerDetail.cs",
               "RelativeToolTip": "Models\\CustomerDetail.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAA9wAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T12:39:57.543Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T12:39:57.543Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FinacleSqldbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\FinacleSqldbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\FinacleSqldbContext.cs",
               "RelativeDocumentMoniker": "Models\\FinacleSqldbContext.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\FinacleSqldbContext.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\FinacleSqldbContext.cs",
               "RelativeToolTip": "Models\\FinacleSqldbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-18T06:07:36.291Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-18T06:07:36.291Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Program.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAgwBcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T12:44:33.3Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T12:44:33.3Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-08-14T17:15:44.663Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "welcomeCard.json",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Cards\\welcomeCard.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Cards\\welcomeCard.json",
               "RelativeDocumentMoniker": "Cards\\welcomeCard.json",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Cards\\welcomeCard.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Cards\\welcomeCard.json",
               "RelativeToolTip": "Cards\\welcomeCard.json",
               "ViewState": "AQIAABgAAAAAAAAAAAAowBwAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -194,74 +190,69 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainDialog.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\MainDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\MainDialog.cs",
               "RelativeDocumentMoniker": "Dialogs\\MainDialog.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\MainDialog.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\MainDialog.cs",
               "RelativeToolTip": "Dialogs\\MainDialog.cs",
               "ViewState": "AQIAAHQAAAAAAAAAAAAvwDoAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T16:41:40.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T16:41:40.983Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "QnAfuncDialog.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\QnAfuncDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\QnAfuncDialog.cs",
               "RelativeDocumentMoniker": "Dialogs\\QnAfuncDialog.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\QnAfuncDialog.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\QnAfuncDialog.cs",
               "RelativeToolTip": "Dialogs\\QnAfuncDialog.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T16:10:33.062Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T16:10:33.062Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Startup.cs",
               "RelativeDocumentMoniker": "Startup.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Startup.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Startup.cs",
               "RelativeToolTip": "Startup.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T16:40:24.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T16:40:24.647Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "AzureSQLDBDialog.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\AzureSQLDBDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\AzureSQLDBDialog.cs",
               "RelativeDocumentMoniker": "Dialogs\\AzureSQLDBDialog.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\AzureSQLDBDialog.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\AzureSQLDBDialog.cs",
               "RelativeToolTip": "Dialogs\\AzureSQLDBDialog.cs",
               "ViewState": "AQIAAKwBAAAAAAAAAAAkwFIBAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T16:52:37.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-14T16:52:37.774Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "GenerateReport.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\GenerateReport.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\GenerateReport.cs",
               "RelativeDocumentMoniker": "Dialogs\\GenerateReport.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Dialogs\\GenerateReport.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Dialogs\\GenerateReport.cs",
               "RelativeToolTip": "Dialogs\\GenerateReport.cs",
               "ViewState": "AQIAAD4AAAAAAAAAAAAIwC8BAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T12:12:41.555Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T12:12:41.555Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "DialogBot.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Bots\\DialogBot.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Bots\\DialogBot.cs",
               "RelativeDocumentMoniker": "Bots\\DialogBot.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Bots\\DialogBot.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Bots\\DialogBot.cs",
               "RelativeToolTip": "Bots\\DialogBot.cs",
               "ViewState": "AQIAABoAAAAAAAAAAAAiwCMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -271,9 +262,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Notes.txt",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Notes.txt",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Notes.txt",
               "RelativeDocumentMoniker": "Notes.txt",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Notes.txt",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Notes.txt",
               "RelativeToolTip": "Notes.txt",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -283,9 +274,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "DialogAndWelcomeBot.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Bots\\DialogAndWelcomeBot.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Bots\\DialogAndWelcomeBot.cs",
               "RelativeDocumentMoniker": "Bots\\DialogAndWelcomeBot.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Bots\\DialogAndWelcomeBot.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Bots\\DialogAndWelcomeBot.cs",
               "RelativeToolTip": "Bots\\DialogAndWelcomeBot.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAqwBMAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -295,9 +286,9 @@
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "Eodpublisher.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\Eodpublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\Eodpublisher.cs",
               "RelativeDocumentMoniker": "Models\\Eodpublisher.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\Eodpublisher.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\Eodpublisher.cs",
               "RelativeToolTip": "Models\\Eodpublisher.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -307,9 +298,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "serviceDependencies.json",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Properties\\serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Properties\\serviceDependencies.json",
               "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Properties\\serviceDependencies.json",
               "RelativeToolTip": "Properties\\serviceDependencies.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -319,9 +310,9 @@
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -331,9 +322,9 @@
               "$type": "Document",
               "DocumentIndex": 17,
               "Title": "TradingBook.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\TradingBook.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\TradingBook.cs",
               "RelativeDocumentMoniker": "Models\\TradingBook.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\TradingBook.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\TradingBook.cs",
               "RelativeToolTip": "Models\\TradingBook.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -343,9 +334,9 @@
               "$type": "Document",
               "DocumentIndex": 18,
               "Title": "TradeFlow.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\TradeFlow.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\TradeFlow.cs",
               "RelativeDocumentMoniker": "Models\\TradeFlow.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\Models\\TradeFlow.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\Models\\TradeFlow.cs",
               "RelativeToolTip": "Models\\TradeFlow.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -355,9 +346,9 @@
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "AdapterWithErrorHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\AdapterWithErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\AdapterWithErrorHandler.cs",
               "RelativeDocumentMoniker": "AdapterWithErrorHandler.cs",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\AdapterWithErrorHandler.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\AdapterWithErrorHandler.cs",
               "RelativeToolTip": "AdapterWithErrorHandler.cs",
               "ViewState": "AQIAAC8AAAAAAAAAAAAYwBMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -367,9 +358,9 @@
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "icon-color.png - PNG [192x192, 32 bit, PNG]",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\TeamsAppManifest\\icon-color.png",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\TeamsAppManifest\\icon-color.png",
               "RelativeDocumentMoniker": "TeamsAppManifest\\icon-color.png",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\TeamsAppManifest\\icon-color.png - PNG [192x192, 32 bit, PNG]",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\TeamsAppManifest\\icon-color.png - PNG [192x192, 32 bit, PNG]",
               "RelativeToolTip": "TeamsAppManifest\\icon-color.png - PNG [192x192, 32 bit, PNG]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
               "WhenOpened": "2024-08-21T05:07:10.123Z",
@@ -379,9 +370,9 @@
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "manifest.json",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\TeamsAppManifest\\manifest.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\TeamsAppManifest\\manifest.json",
               "RelativeDocumentMoniker": "TeamsAppManifest\\manifest.json",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\TeamsAppManifest\\manifest.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\TeamsAppManifest\\manifest.json",
               "RelativeToolTip": "TeamsAppManifest\\manifest.json",
               "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -391,9 +382,9 @@
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "CoreBot.csproj",
-              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\CoreBot.csproj",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\CoreBot.csproj",
               "RelativeDocumentMoniker": "CoreBot.csproj",
-              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\CoreBot.csproj",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\CoreBot.csproj",
               "RelativeToolTip": "CoreBot.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

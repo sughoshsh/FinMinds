@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "epD5DGZgA7U=",
+  "dgSpecHash": "8/0thS1Vv0o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\CoreBot.csproj",
+  "projectFilePath": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\FinMinds\\FinBot\\CoreBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dipika Shahare\\.nuget\\packages\\adaptivecards\\1.2.3\\adaptivecards.1.2.3.nupkg.sha512",
     "C:\\Users\\Dipika Shahare\\.nuget\\packages\\adaptiveexpressions\\4.22.7\\adaptiveexpressions.4.22.7.nupkg.sha512",
