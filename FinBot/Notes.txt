@@ -1,0 +1,57 @@
+create table CustomerDetails
+(
+ID int Identity(1,1),
+custCode varchar(20),
+custStatus varchar(10),
+cust_Live_Position int
+);
+
+create table TradingBook
+(
+ID int Identity(1,1),
+bookName varchar(20),
+bookStatus varchar(10),
+book_Live_Position int
+);
+
+create table EODPublisher
+(
+ID int Identity(1,1),
+systemName varchar(20),
+pubStatus varchar(10),
+eodDate date
+);
+
+create table TradeFlow
+(
+ID int Identity(1,1),
+trade_id varchar(20),
+loadStatus varchar(10),
+loadDate date
+);
+
+insert into [dbo].[CustomerDetails] 
+ values ('123456','Active',0),
+ ('675458','Active',5),
+ ('589654','Inactive',0),('H25684','Active',10);
+
+insert into [dbo].[EODPublisher]
+values ('GATEWAY','COMPLETED','2024-08-18'),('PC','COMPLETED','2024-08-18')
+,('OPERA','ERROR','2024-08-18'),('FACE','SKIPPED','2024-08-18');
+
+insert into [dbo].[TradeFlow]
+values ('XYZ123','LOADED','2024-08-18'),
+('XYZ456','LOADED','2024-08-17'),('XYZ456','PENDING','2024-08-18'),
+('XYZ789','FAILED','2024-08-18');
+
+insert into [dbo].[TradingBook]
+values ('ABCD','ACTIVE',12),
+('EFGH','INACTIVE',0),('IJKL','INACTIVE',0),('MNOP','ACTIVE',500);
+
+select * from [dbo].[CustomerDetails]
+select * from [dbo].[EODPublisher]
+select * from [dbo].[TradingBook]
+select * from [dbo].[TradeFlow]
+
+//DB Connection command
+Scaffold-DbContext -Connection "Server=tcp:finminds-sqlserver.database.windows.net,1433;Initial Catalog=finminds-sqldb;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;Authentication=Active Directory Default;" -Provider Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force

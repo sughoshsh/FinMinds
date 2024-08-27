@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\wwwroot\\default.htm",
+      "PackagePath": "staticwebassets\\default.htm"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.CoreBot.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.CoreBot.props",
+      "PackagePath": "build\\CoreBot.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CoreBot.props",
+      "PackagePath": "buildMultiTargeting\\CoreBot.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.CoreBot.props",
+      "PackagePath": "buildTransitive\\CoreBot.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
