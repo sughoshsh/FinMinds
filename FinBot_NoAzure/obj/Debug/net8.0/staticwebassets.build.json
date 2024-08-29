@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "XpTPvxhWFISN68dXk+sTEzalKhrePlPda7L8PwQHy+Y=",
+  "Source": "CoreBot",
+  "BasePath": "_content/CoreBot",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreBot\\wwwroot",
+      "Source": "CoreBot",
+      "ContentRoot": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\wwwroot\\",
+      "BasePath": "_content/CoreBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\wwwroot\\default.htm",
+      "SourceId": "CoreBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\wwwroot\\",
+      "BasePath": "_content/CoreBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}

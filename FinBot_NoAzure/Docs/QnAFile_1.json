@@ -1,0 +1,27 @@
+[
+  {
+    "question": "What is the Capital of India?",
+    "answer": "New Delhi"
+  },
+  {
+    "question": "What is the Capital of USA?",
+    "answer": "DC"
+  },
+  {
+    "question": "Hi",
+    "answer": "Hello, Welcome"
+  },
+  {
+    "question": "Hello",
+    "answer": "Hello, Welcome"
+  },
+  {
+    "question": "Bye",
+    "answer": "Bye.."
+  },
+  {
+    "question": "Whats your bot name?",
+    "answer": "fintech Bot"
+  }
+
+]

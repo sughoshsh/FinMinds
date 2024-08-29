@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\cards\\welcomecard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:cards\\welcomecard.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\dialogs\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\dialogs\\qnafuncdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\qnafuncdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\dialogs\\qnalearndialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\qnalearndialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\dialogs\\azuresqldbdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\azuresqldbdialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\bots\\dialogandwelcomebot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:bots\\dialogandwelcomebot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\bots\\dialogbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:bots\\dialogbot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\models\\finaclesqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\finaclesqldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\dialogs\\maindialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\maindialog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\dialogs\\localdocsqna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:dialogs\\localdocsqna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:adapterwitherrorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\docs\\qnafile_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:docs\\qnafile_1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\models\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\models\\eodpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\eodpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\models\\tradingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\tradingbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\models\\tradeflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:models\\tradeflow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\teamsappmanifest\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:teamsappmanifest\\manifest.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\teamsappmanifest\\icon-color.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:teamsappmanifest\\icon-color.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|c:\\users\\dipika shahare\\documents\\finbot_noazure\\corebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2174399-D374-4D3E-873D-3A6F19197EEC}|CoreBot.csproj|solutionrelative:corebot.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.local.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.local.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T16:30:12.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GenerateReport.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\GenerateReport.cs",
+              "RelativeDocumentMoniker": "Dialogs\\GenerateReport.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\GenerateReport.cs",
+              "RelativeToolTip": "Dialogs\\GenerateReport.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAewD0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:12:41.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T12:44:33.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:40:24.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "welcomeCard.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Cards\\welcomeCard.json",
+              "RelativeDocumentMoniker": "Cards\\welcomeCard.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Cards\\welcomeCard.json",
+              "RelativeToolTip": "Cards\\welcomeCard.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-17T12:25:44.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T08:11:37.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-25T08:11:52.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QnAfuncDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\QnAfuncDialog.cs",
+              "RelativeDocumentMoniker": "Dialogs\\QnAfuncDialog.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\QnAfuncDialog.cs",
+              "RelativeToolTip": "Dialogs\\QnAfuncDialog.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAuwFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T16:10:33.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T17:15:44.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QnALearnDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\QnALearnDialog.cs",
+              "RelativeDocumentMoniker": "Dialogs\\QnALearnDialog.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\QnALearnDialog.cs",
+              "RelativeToolTip": "Dialogs\\QnALearnDialog.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAuwFcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:04:08.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DialogAndWelcomeBot.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Bots\\DialogAndWelcomeBot.cs",
+              "RelativeDocumentMoniker": "Bots\\DialogAndWelcomeBot.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Bots\\DialogAndWelcomeBot.cs",
+              "RelativeToolTip": "Bots\\DialogAndWelcomeBot.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAqwBMAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:27:18.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DialogBot.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Bots\\DialogBot.cs",
+              "RelativeDocumentMoniker": "Bots\\DialogBot.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Bots\\DialogBot.cs",
+              "RelativeToolTip": "Bots\\DialogBot.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAqwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:27:30.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AzureSQLDBDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\AzureSQLDBDialog.cs",
+              "RelativeDocumentMoniker": "Dialogs\\AzureSQLDBDialog.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\AzureSQLDBDialog.cs",
+              "RelativeToolTip": "Dialogs\\AzureSQLDBDialog.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAMwB8AAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:52:37.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FinacleSqldbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\FinacleSqldbContext.cs",
+              "RelativeDocumentMoniker": "Models\\FinacleSqldbContext.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\FinacleSqldbContext.cs",
+              "RelativeToolTip": "Models\\FinacleSqldbContext.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwC8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T06:07:36.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainDialog.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\MainDialog.cs",
+              "RelativeDocumentMoniker": "Dialogs\\MainDialog.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\MainDialog.cs",
+              "RelativeToolTip": "Dialogs\\MainDialog.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAcwCcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:41:40.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LocaldocsQnA.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\LocaldocsQnA.cs",
+              "RelativeDocumentMoniker": "Dialogs\\LocaldocsQnA.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Dialogs\\LocaldocsQnA.cs",
+              "RelativeToolTip": "Dialogs\\LocaldocsQnA.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA3wD0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:05:54.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CustomerDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\CustomerDetail.cs",
+              "RelativeDocumentMoniker": "Models\\CustomerDetail.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\CustomerDetail.cs",
+              "RelativeToolTip": "Models\\CustomerDetail.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T12:39:57.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AdapterWithErrorHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\AdapterWithErrorHandler.cs",
+              "RelativeDocumentMoniker": "AdapterWithErrorHandler.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\AdapterWithErrorHandler.cs",
+              "RelativeToolTip": "AdapterWithErrorHandler.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAYwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T04:32:15.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "QnAFile_1.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Docs\\QnAFile_1.json",
+              "RelativeDocumentMoniker": "Docs\\QnAFile_1.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Docs\\QnAFile_1.json",
+              "RelativeToolTip": "Docs\\QnAFile_1.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T16:45:12.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Notes.txt",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Notes.txt",
+              "RelativeDocumentMoniker": "Notes.txt",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Notes.txt",
+              "RelativeToolTip": "Notes.txt",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-25T17:26:18.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Eodpublisher.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\Eodpublisher.cs",
+              "RelativeDocumentMoniker": "Models\\Eodpublisher.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\Eodpublisher.cs",
+              "RelativeToolTip": "Models\\Eodpublisher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:28:51.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TradingBook.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\TradingBook.cs",
+              "RelativeDocumentMoniker": "Models\\TradingBook.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\TradingBook.cs",
+              "RelativeToolTip": "Models\\TradingBook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:30:38.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TradeFlow.cs",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\TradeFlow.cs",
+              "RelativeDocumentMoniker": "Models\\TradeFlow.cs",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\Models\\TradeFlow.cs",
+              "RelativeToolTip": "Models\\TradeFlow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:30:26.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "icon-color.png - PNG [192x192, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\TeamsAppManifest\\icon-color.png",
+              "RelativeDocumentMoniker": "TeamsAppManifest\\icon-color.png",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\TeamsAppManifest\\icon-color.png - PNG [192x192, 32 bit, PNG]",
+              "RelativeToolTip": "TeamsAppManifest\\icon-color.png - PNG [192x192, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-08-21T05:07:10.123Z",
+              "EditorCaption": " - PNG [192x192, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\TeamsAppManifest\\manifest.json",
+              "RelativeDocumentMoniker": "TeamsAppManifest\\manifest.json",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\TeamsAppManifest\\manifest.json",
+              "RelativeToolTip": "TeamsAppManifest\\manifest.json",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T05:08:26.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CoreBot.csproj",
+              "DocumentMoniker": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\CoreBot.csproj",
+              "RelativeDocumentMoniker": "CoreBot.csproj",
+              "ToolTip": "C:\\Users\\Dipika Shahare\\Documents\\FinBot_NoAzure\\CoreBot.csproj",
+              "RelativeToolTip": "CoreBot.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-18T06:00:27.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

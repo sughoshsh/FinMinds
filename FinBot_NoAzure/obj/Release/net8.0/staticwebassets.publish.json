@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "Lj6wrqNRUPl4pBixTY0Z7uUFoIa/AZIhAFMqVWTj2eg=",
+  "Source": "CoreBot",
+  "BasePath": "_content/CoreBot",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CoreBot\\wwwroot",
+      "Source": "CoreBot",
+      "ContentRoot": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\wwwroot\\",
+      "BasePath": "_content/CoreBot",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\wwwroot\\default.htm",
+      "SourceId": "CoreBot",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dipika Shahare\\Documents\\GitHub\\sughosh_su\\13.core-bot\\wwwroot\\",
+      "BasePath": "_content/CoreBot",
+      "RelativePath": "default.htm",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\default.htm"
+    }
+  ]
+}
